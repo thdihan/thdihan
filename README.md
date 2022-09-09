@@ -93,5 +93,5 @@ Timezone: Europe/Vienna (CEST)
 - [How I got my first job as a developer by making simple projects seem big](https://dev.to/yuridevat/how-i-got-my-first-job-as-a-developer-by-making-simple-projects-seem-big-48oi) -->
 <!-- DEV:END -->
 
-<!-- ... [READ MORE](https://dev.to/yuridevat) --> -->
+<!-- ... [READ MORE](https://dev.to/yuridevat) -->
 
